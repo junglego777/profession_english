@@ -4,4 +4,7 @@
 
 ## List
 
-- rules of thumb
+- rules of thumb  
+经验法则  
+There are a few rules of thumb when scaling resources for Graylog  
+在为 Graylog 扩展资源时, 有一些经验法则
